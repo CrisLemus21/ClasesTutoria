@@ -1,0 +1,10 @@
+C:\Users\domi2\source\repos\ventacarros\entidades\bin\Debug\netcoreapp3.1\entidades.deps.json
+C:\Users\domi2\source\repos\ventacarros\entidades\bin\Debug\netcoreapp3.1\entidades.dll
+C:\Users\domi2\source\repos\ventacarros\entidades\bin\Debug\netcoreapp3.1\entidades.pdb
+C:\Users\domi2\source\repos\ventacarros\entidades\obj\Debug\netcoreapp3.1\entidades.csproj.AssemblyReference.cache
+C:\Users\domi2\source\repos\ventacarros\entidades\obj\Debug\netcoreapp3.1\entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domi2\source\repos\ventacarros\entidades\obj\Debug\netcoreapp3.1\entidades.AssemblyInfoInputs.cache
+C:\Users\domi2\source\repos\ventacarros\entidades\obj\Debug\netcoreapp3.1\entidades.AssemblyInfo.cs
+C:\Users\domi2\source\repos\ventacarros\entidades\obj\Debug\netcoreapp3.1\entidades.csproj.CoreCompileInputs.cache
+C:\Users\domi2\source\repos\ventacarros\entidades\obj\Debug\netcoreapp3.1\entidades.dll
+C:\Users\domi2\source\repos\ventacarros\entidades\obj\Debug\netcoreapp3.1\entidades.pdb

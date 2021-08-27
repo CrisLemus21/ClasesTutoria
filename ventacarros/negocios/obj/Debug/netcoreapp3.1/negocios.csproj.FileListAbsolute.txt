@@ -1,0 +1,13 @@
+C:\Users\domi2\source\repos\ventacarros\negocios\bin\Debug\netcoreapp3.1\negocios.deps.json
+C:\Users\domi2\source\repos\ventacarros\negocios\bin\Debug\netcoreapp3.1\negocios.dll
+C:\Users\domi2\source\repos\ventacarros\negocios\bin\Debug\netcoreapp3.1\negocios.pdb
+C:\Users\domi2\source\repos\ventacarros\negocios\bin\Debug\netcoreapp3.1\entidades.dll
+C:\Users\domi2\source\repos\ventacarros\negocios\bin\Debug\netcoreapp3.1\entidades.pdb
+C:\Users\domi2\source\repos\ventacarros\negocios\obj\Debug\netcoreapp3.1\negocios.csproj.AssemblyReference.cache
+C:\Users\domi2\source\repos\ventacarros\negocios\obj\Debug\netcoreapp3.1\negocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domi2\source\repos\ventacarros\negocios\obj\Debug\netcoreapp3.1\negocios.AssemblyInfoInputs.cache
+C:\Users\domi2\source\repos\ventacarros\negocios\obj\Debug\netcoreapp3.1\negocios.AssemblyInfo.cs
+C:\Users\domi2\source\repos\ventacarros\negocios\obj\Debug\netcoreapp3.1\negocios.csproj.CoreCompileInputs.cache
+C:\Users\domi2\source\repos\ventacarros\negocios\obj\Debug\netcoreapp3.1\negocios.csproj.CopyComplete
+C:\Users\domi2\source\repos\ventacarros\negocios\obj\Debug\netcoreapp3.1\negocios.dll
+C:\Users\domi2\source\repos\ventacarros\negocios\obj\Debug\netcoreapp3.1\negocios.pdb
