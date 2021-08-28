@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\domi2\\source\\repos\\ventacarros\\negocios\\negocios.csproj",
+      "projectUniqueName": "C:\\Users\\domi2\\Documents\\GitHub\\ClasesTutoria\\ventacarros\\negocios\\negocios.csproj",
       "projectName": "negocios",
-      "projectPath": "C:\\Users\\domi2\\source\\repos\\ventacarros\\negocios\\negocios.csproj",
+      "projectPath": "C:\\Users\\domi2\\Documents\\GitHub\\ClasesTutoria\\ventacarros\\negocios\\negocios.csproj",
       "packagesPath": "C:\\Users\\domi2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\domi2\\source\\repos\\ventacarros\\negocios\\obj\\",
+      "outputPath": "C:\\Users\\domi2\\Documents\\GitHub\\ClasesTutoria\\ventacarros\\negocios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\domi2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\domi2\\source\\repos\\ventacarros\\entidades\\entidades.csproj": {
-              "projectPath": "C:\\Users\\domi2\\source\\repos\\ventacarros\\entidades\\entidades.csproj"
+            "C:\\Users\\domi2\\Documents\\GitHub\\ClasesTutoria\\ventacarros\\entidades\\entidades.csproj": {
+              "projectPath": "C:\\Users\\domi2\\Documents\\GitHub\\ClasesTutoria\\ventacarros\\entidades\\entidades.csproj"
             }
           }
         }

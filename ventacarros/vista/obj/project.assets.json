@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\domi2\\source\\repos\\ventacarros\\vista\\vista.csproj",
+      "projectUniqueName": "C:\\Users\\domi2\\Documents\\GitHub\\ClasesTutoria\\ventacarros\\vista\\vista.csproj",
       "projectName": "vista",
-      "projectPath": "C:\\Users\\domi2\\source\\repos\\ventacarros\\vista\\vista.csproj",
+      "projectPath": "C:\\Users\\domi2\\Documents\\GitHub\\ClasesTutoria\\ventacarros\\vista\\vista.csproj",
       "packagesPath": "C:\\Users\\domi2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\domi2\\source\\repos\\ventacarros\\vista\\obj\\",
+      "outputPath": "C:\\Users\\domi2\\Documents\\GitHub\\ClasesTutoria\\ventacarros\\vista\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\domi2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,11 +72,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\domi2\\source\\repos\\ventacarros\\entidades\\entidades.csproj": {
-              "projectPath": "C:\\Users\\domi2\\source\\repos\\ventacarros\\entidades\\entidades.csproj"
+            "C:\\Users\\domi2\\Documents\\GitHub\\ClasesTutoria\\ventacarros\\entidades\\entidades.csproj": {
+              "projectPath": "C:\\Users\\domi2\\Documents\\GitHub\\ClasesTutoria\\ventacarros\\entidades\\entidades.csproj"
             },
-            "C:\\Users\\domi2\\source\\repos\\ventacarros\\negocios\\negocios.csproj": {
-              "projectPath": "C:\\Users\\domi2\\source\\repos\\ventacarros\\negocios\\negocios.csproj"
+            "C:\\Users\\domi2\\Documents\\GitHub\\ClasesTutoria\\ventacarros\\negocios\\negocios.csproj": {
+              "projectPath": "C:\\Users\\domi2\\Documents\\GitHub\\ClasesTutoria\\ventacarros\\negocios\\negocios.csproj"
             }
           }
         }

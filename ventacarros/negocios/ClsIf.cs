@@ -43,7 +43,7 @@ namespace negocios
                     {
                         Clscatalogos car2 = new Clscatalogos();
 
-                        Console.WriteLine("usted decidio comprar en carro 2 , con las siguientes especificaciones " );
+                        Console.WriteLine("usted decidio comprar el carro 2 , con las siguientes especificaciones " );
                         Console.WriteLine(car2.Carro2());
                         Console.WriteLine("------------------------------------------------------------------\nEl total a pagar es de 18000 dolaress\n\n ");
                     }
@@ -51,7 +51,7 @@ namespace negocios
                     {
                         Clscatalogos car3 = new Clscatalogos();
 
-                        Console.WriteLine("usted decidio comprar en carro 3 , con las siguientes especificaciones " );
+                        Console.WriteLine("usted decidio comprar el carro 3 , con las siguientes especificaciones " );
                         Console.WriteLine(car3.Carro3());
                         Console.WriteLine("------------------------------------------------------------------\nEl total a pagar es de 80000 dolaress \n\n");
                     }
@@ -59,7 +59,7 @@ namespace negocios
                     {
                         Clscatalogos car4 = new Clscatalogos();
 
-                        Console.WriteLine("usted decidio comprar en carro 4 , con las siguientes especificaciones ");
+                        Console.WriteLine("usted decidio comprar el carro 4 , con las siguientes especificaciones ");
                         Console.WriteLine(car4.Carro4());
                         Console.WriteLine("------------------------------------------------------------------\nEl total a pagar es de 5000 dolaress\n\n ");
 

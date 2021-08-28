@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\domi2\\source\\repos\\ventacarros\\entidades\\entidades.csproj",
+      "projectUniqueName": "C:\\Users\\domi2\\Documents\\GitHub\\ClasesTutoria\\ventacarros\\entidades\\entidades.csproj",
       "projectName": "entidades",
-      "projectPath": "C:\\Users\\domi2\\source\\repos\\ventacarros\\entidades\\entidades.csproj",
+      "projectPath": "C:\\Users\\domi2\\Documents\\GitHub\\ClasesTutoria\\ventacarros\\entidades\\entidades.csproj",
       "packagesPath": "C:\\Users\\domi2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\domi2\\source\\repos\\ventacarros\\entidades\\obj\\",
+      "outputPath": "C:\\Users\\domi2\\Documents\\GitHub\\ClasesTutoria\\ventacarros\\entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\domi2\\AppData\\Roaming\\NuGet\\NuGet.Config",
